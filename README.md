@@ -1,4 +1,4 @@
-Here is all my work on the required assigments for the swift development course CS193p
+Here is all my work on the required assigments for the swift development course CS193p<br>
 Core features:
 Themed emoji sets
 Scoring feature
